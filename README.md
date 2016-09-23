@@ -10,7 +10,7 @@ Sample Echo Bot Written in C#
 * **6-Enjoy!**
 
 ###Our Developer And Team
->Developed By [shayan123hacker](https://telegram.me/shayan123hacker)**
+>Developed By [shayan123hacker](https://telegram.me/shayan123hacker)
 >>Powered by iTeam
->>>[iTeam's Persian Channel](https://telegram.me/iTeam_ir)
+>>>[iTeam's Persian Channel](https://telegram.me/iTeam_ir) | 
 >>>[iTeam's English Channel](https://telegram.me/iTeam_en)
