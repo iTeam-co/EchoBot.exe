@@ -8,7 +8,7 @@ Sample Echo Written in C#
 * **4-Enter A Token in "Bot Token..." Box**
 * **5-Click On "Launch Bot!"**
 * **6-Enjoy!**
-* **Developed By [shayan123hacker](https://telegram.me/shayan123hacker)**
-* **Powered by iTeam**
-* **[iTeam's Persian Channel](https://telegram.me/iTeam_ir)**
-* **[iTeam's English Channel](https://telegram.me/iTeam_en)**
+>Developed By [shayan123hacker](https://telegram.me/shayan123hacker)**
+>>Powered by iTeam
+>>>[iTeam's Persian Channel](https://telegram.me/iTeam_ir)
+>>>[iTeam's English Channel](https://telegram.me/iTeam_en)
